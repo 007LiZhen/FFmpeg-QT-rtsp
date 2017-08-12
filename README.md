@@ -4,6 +4,8 @@
 
 项目源码在附件中
 
+FFmpeg库在附件中
+
 程序版本说明：
 Qt版本：Qt 5.9.1(MSVC 2015,32bit)
 Qt Creator 4.3.1
